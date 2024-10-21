@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <h1>Oleg Davidov</h1>
-      <svg viewbox="0 0 100 20">
+      <svg viewBox="0 0 100 20">
         <defs>
           <linearGradient id="gradient">
             <stop color="#000" />
